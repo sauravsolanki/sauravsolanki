@@ -22,8 +22,8 @@
 <a href="https://www.codechef.com/users/sauravsolanki">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/220px-Codechef%28new%29_logo.svg.png" height="40" width="100" alt="codechef" /></a>
 
-<a href="https://www.codechef.com/users/sauravsolanki">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="100" alt="codechef" /></a>
+<a href="mailto:sausol.solanki@gmail.com">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="100" alt="email" /></a>
 
 
 <!--  -->
