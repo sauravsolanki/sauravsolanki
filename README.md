@@ -22,6 +22,13 @@
 <a href="https://www.codechef.com/users/sauravsolanki">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/220px-Codechef%28new%29_logo.svg.png" height="40" width="100" alt="codechef" /></a>
 
+<a href="https://www.codechef.com/users/sauravsolanki">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="100" alt="codechef" /></a>
+
+
+<!--  -->
+#### Email: sausol.solanki@gmail.com 
+
 </p>
 
 </br></br>
@@ -85,9 +92,13 @@
 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
-####  Email: sausol.solanki@gmail.com 
+    <img src="https://miro.medium.com/max/1632/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="react" width="40" height="40"/>
+
+    <img src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress" alt="react" width="120" height="40"/> 
+    <!--  -->
+
 
  
 
