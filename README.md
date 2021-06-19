@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Saurav Solanki</h1>
 <h3 align="center">I'm a Machine Learning, Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chriswales95&label=Profile%20views&color=0e75b6&style=flat" alt="chriswales95" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sauravsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsolanki" /> 
+
+  <img align="center" src="https://www.countryflags.com/wp-content/uploads/india-flag-png-xl.png" alt="sauravsolankiLinkedIn" height="40" width="40" /></a>
+  
+</p>
 
 - 🔭 I’m currently working as **Machine Learning Intern at DeepEdge.ai**
 
