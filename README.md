@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saurav Solanki</h1>
-<h3 align="center">I'm a Computing Science Engineer and Software Engineer, Machine Learning from India</h3>
+<h3 align="center">I'm a Machine Learning, Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriswales95&label=Profile%20views&color=0e75b6&style=flat" alt="chriswales95" /> </p>
 
