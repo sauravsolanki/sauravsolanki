@@ -3,7 +3,7 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsolanki" /> </p>
 
-- 🔭 I’m currently working as **Machine Learning Intern at DeepEdge.ai**
+- 🔭 I’m currently working as **Machine Learning Engineer at DeepEdge.ai**
 
 - 👨‍💻 Website is at [https://sauravsolanki.github.io/](https://sauravsolanki.github.io/)
 
