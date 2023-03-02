@@ -13,7 +13,7 @@
 
 - You can connect with me here: <a href="https://www.linkedin.com/in/sauravsolanki/" target="blank"> <img align="center" src="https://i0.wp.com/www.sfdcamplified.com/wp-content/uploads/2019/04/linkedin-logo-copy.png?w=612&ssl=1" alt="sauravsolankiLinkedIn" height="20" width="20" /></a>
 
-- Or, Mail me: sausol.solanki@gmail.com<a href="mailto:sausol.solanki@gmail.com"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="20" alt="email" /></a>
+- Or, Mail me: saurav.solanki.cse@gmail.com<a href="mailto:sausol.solanki@gmail.com"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="20" alt="email" /></a>
 
 - Skills: Python, Machine Learning, Deep Learning, Docker, Git, FastAPI, Redis, MongoDB, Elastic Stack(ELK),
 Tensorflow, Pandas, Numpy, Scikit-learn, OpenCV, AWS Services.
