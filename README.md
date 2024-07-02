@@ -1,20 +1,43 @@
-<h1 align="center">Hi, I'm Saurav Solanki</h1>
-<h3 align="center">I'm a 4+ year experienced Software Developer. I mostly have designed Machine Learning System with AWS Cloud Infrastructure. ML + SDE  <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-xl.png" alt="sauravsolankiLinkedIn" height="15" width="20" />
-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsolanki" /> </p>
+# Hi, I'm Saurav Solanki
 
-- 🔭 I’m currently working as **Software Developer 2**
+Welcome to my GitHub profile! I'm a Software Engineer with over 4+ years of experience in designing and implementing
+various
+Microservice including Backend Server in FastAPI/Flask, Event Driven Architecture, Machine Learning systems, Edge Device
+Management Server and many more, primarily leveraging AWS Cloud Infrastructure and Python.
+I combine expertise in Software Engineer to deliver robust and scalable solutions on AWS.
 
-- 👨‍💻 I’m passionate in solving problem using Python Language and love to build infrastructure in AWS using Terra, Kubernetes, Docker, Redis, MongoDB, Kafka and many other stacks
+![Profile Views](https://komarev.com/ghpvc/?username=sauravsolanki&label=Profile%20views&color=0e75b6&style=flat)
 
-- I have 4+ year of experience in Software Design and have gained professional problem solving experience in 3 successful early stage startups and carry zeal to learn and be the best in implementation.
+## About Me
 
-- Active and Always Open for Challenges/Social Cause
+- 🔭 **Current Role**: Software Engineer, ML Reliance Jio subsidiary.
+- 🌱 **Passion**: I thrive on solving problems using Python and enjoy building infrastructure on AWS with tools like
+  Docker, Redis, MLFlow, MongoDB, and Kafka. I'm also passionate about creating efficient Backend System, ML pipelines
+  and deploying multiple trained models for
+  real-world applications.
+- 💼 **Experience**: With a solid background in Software design, I have honed my skills in two successful early-stage
+  startups, always eager to learn and excel in implementation. I've also led a research project at IIT Delhi, developing
+  intelligent edge devices for visually impaired individuals.
+- 🚀 **Mindset**: Always open to challenges and contributing to social causes.
 
-- You can connect with me here: <a href="https://www.linkedin.com/in/sauravsolanki/" target="blank"> <img align="center" src="https://i0.wp.com/www.sfdcamplified.com/wp-content/uploads/2019/04/linkedin-logo-copy.png?w=612&ssl=1" alt="sauravsolankiLinkedIn" height="20" width="20" /></a>
+## Get in Touch
 
-- Or, Mail me: saurav.solanki.cse@gmail.com<a href="mailto:sausol.solanki@gmail.com"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="20" alt="email" /></a>
+- **LinkedIn**: [Saurav Solanki](https://www.linkedin.com/in/sauravsolanki/)
+- **Email**: sausol.solanki@gmail.com
 
-- Skills: Python, Docker, Kubernetes, AWS Services, Kafka, Airflow, Machine Learning, FastAPI and Flask, Redis, MongoDB & SQL, Elastic Stack(ELK), Tensorflow, OpenCV.
+## Skills
 
-</br></br>
+- **Programming Languages**: Python, Javascript
+- **Containerization**: Docker, Kubernetes
+- **Cloud Platforms**: AWS Services (S3, EC2,Lambda, API Gateway, SQS, SNS, EventBridge,Cloudwatch, AMI, Redshift, Bedrock )
+- **Message Brokers**: Kafka, MQTT, ActiveMQ, SQS
+- **Workflow Orchestration**: Airflow, Prefect
+- **Web Frameworks**: FastAPI, Flask
+- **Databases**: Redis, MongoDB, SQL
+- **Logging and Monitoring**: Elastic Stack (ELK), Datadog
+- **Machine Learning**: TensorFlow, OpenCV, Scikit-learn, Seaborn, Numpy and Pandas
+
+---
+
+Feel free to explore my repositories and connect with me for any collaborative opportunities or discussions around
+technology and innovation. Let's build something amazing together!
